@@ -5,3 +5,5 @@ npm uninstall express	- 'uninstall' must be typed out in full
 npm outdated		- outlines all outdated packages
 npm update express	- update npm packages
 npm i express@latest	- install latest version of package
+npm i -D nodemon	- install nodemon for dev = --save-dev
+npm i -g nodemon	- g for global, outside of project, but on local machine; replaced by npx

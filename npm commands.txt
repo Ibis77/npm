@@ -1,1 +1,7 @@
-npm init		- initialisation
+npm init			- initialisation
+npm init -y			- y for yes; use default values for all optional keys; automatically creates package.json
+npm i express		- i for install
+npm uninstall express	- 'uninstall' must be typed out in full
+npm outdated		- outlines all outdated packages
+npm update express	- update npm packages
+npm i express@latest	- install latest version of package
